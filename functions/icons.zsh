@@ -88,7 +88,7 @@ case $POWERLEVEL9K_MODE in
       RUBY_ICON                      $'\uF219 '             # 
       AWS_ICON                       $'\uF296'              # 
       AWS_EB_ICON                    $'\U1F331 '            # 🌱
-      BACKGROUND_JOBS_ICON           $'\uF013 '             # 
+      BACKGROUND_JOBS_ICON           $'\uF013'              # 
       TEST_ICON                      $'\uF291'              # 
       TODO_ICON                      $'\u2611'              # ☑
       BATTERY_ICON                   $'\U1F50B'             # 🔋
@@ -125,7 +125,7 @@ case $POWERLEVEL9K_MODE in
       VCS_HG_ICON                    $'\uF0C3 '             # 
       VCS_SVN_ICON                   '(svn) '
       RUST_ICON                      $'\uE6A8'              #  
-      PYTHON_ICON                    $'\U1F40D'             # 🐍
+      PYTHON_ICON                    $'\ue73c'              # 
     )
   ;;
   *)
